@@ -4,5 +4,6 @@ uint32 blink
 string name
 uint32 okao_id
 float64 fps
+eyeballs_msgs/HVConf dir
 eyeballs_msgs/Pupil right
 eyeballs_msgs/Pupil left

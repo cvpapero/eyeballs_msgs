@@ -46,6 +46,7 @@ find_package(catkin REQUIRED COMPONENTS
 add_message_files(
   FILES
   Pupil.msg
+  HVConf.msg
   Eyeballs.msg
 )
 
